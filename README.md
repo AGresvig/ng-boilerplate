@@ -1,5 +1,17 @@
-# [ngBoilerplate](http://joshdmiller.github.com/ng-boilerplate) [![Build Status](https://travis-ci.org/joshdmiller/ng-boilerplate.png?branch=master)](https://travis-ci.org/joshdmiller/ng-boilerplate)
+## Updgraded version of [ngBoilerplate](http://joshdmiller.github.com/ng-boilerplate) 
 
+Bower dependencies updated:
+
+* angular 1.2.1
+* angular-mocks 1.2.1
+* angular-bootstrap 1.2.1
+* angular-ui-router 0.2.0
+* angular-ui-utils 0.0.4
+* bootstrap 3.0.2
+
+I have done an effort to update the markup and styling to Bootstrap 3.
+
+------
 An opinionated kickstarter for [AngularJS](http://angularjs.org) projects.
 
 ***
