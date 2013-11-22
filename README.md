@@ -1,4 +1,4 @@
-## Updgraded version of [ngBoilerplate](http://joshdmiller.github.com/ng-boilerplate) 
+## Upgraded version of [ngBoilerplate](http://joshdmiller.github.com/ng-boilerplate) 
 
 Bower dependencies updated:
 
